@@ -9,6 +9,8 @@ This includes the research on mainly following areas:
     - [Architecural Aspect : Heirarchical Data Storage](StateOfTheArt/heirarchical_storj.md)
     - [Consensus Protocols : Proof of Authentication](StateOfTheArt/proofOfTheArt.md)
 
+    - [Possible Area of Research : Ethereum](StateOfTheArt/ethereum.md)
+
 ---
 
 ### Cited Papers: ###
