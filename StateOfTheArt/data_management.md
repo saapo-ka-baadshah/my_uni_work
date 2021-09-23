@@ -1,5 +1,9 @@
-## Trusted IoT : Blockchain : Data Management Aspect ##
+## Trusted IoT : Blockchain : Data Management Aspect
 ---
+
+In IoT and IIoT, the major data flow is centralized making a few points as single points of failures. This can be resolved by a decentralized data management approach.
+
+Also in order to achieve the trust within the system it is very important to consider following aspects:
 
 1. Trusted Sensing: 
     - Solution for following problem "Is every node onto the IoT network actually a node to be trusted as a data source ?"
