@@ -8,7 +8,6 @@ This includes the research on mainly following areas:
     - [Need : Trust in IoT : Data Management](StateOfTheArt/data_management.md)
     - [Architecural Aspect : Heirarchical Data Storage](StateOfTheArt/heirarchical_storj.md)
     - [Consensus Protocols : Proof of Authentication](StateOfTheArt/proofOfAuthentication.md)
-
     - [Possible Area of Research : Ethereum](StateOfTheArt/ethereum.md)
 
 ---
