@@ -2,7 +2,12 @@
 ---
 
 ### This project consists of following things: ### 
-- State of the Art Research 
+- State of the Art Research : 
+&nbsp;
+This includes the research on mainly following areas: 
+    - [Need : Trust in IoT : Data Management](StateOfTheArt/data_management.md)
+    - [Architecural Aspect : Heirarchical Data Storage](StateOfTheArt/heirarchical_storj.md)
+    - [Consensus Protocols : Proof of Authentication](StateOfTheArt/proofOfTheArt.md)
 
 ---
 
