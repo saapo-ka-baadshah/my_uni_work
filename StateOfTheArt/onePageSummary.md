@@ -7,9 +7,9 @@ Keeping this in mind, the more and more decentralized computational approaches c
 
 ---
 
-## Abstract
+## Overview
 
-For this, 3 major publications have been studied, which connect these two dots. There have not been many publications regarding this topic since the Launch of ethereum Development Stack is relatively new.
+For this, 3 major publications have been studied, which connect these two dots(i.e. Ethereum and IoT). There have not been many publications regarding this topic since the Launch of ethereum Development Stack is relatively new.
 Though there are many other papers related to IoT and Ethereum, the other publications majorly talk about the applications of ethereum in Authentication and threat analysis part of the Subject.
 This research talks about the applications of Ethereum for IoT and the possiblity of usage in Data Handling as well as Architectural spectrum.
 
@@ -22,7 +22,7 @@ This gateway is equipped with a client application that connects the sensor matr
 
 The Gateway in this study is a Rasberry Pi. The simulation results are poorly documented missing the most cruicial details such as the EVM network, Processor, Processor counts serving as a miner, RPi model.
 
-**GAP1 : This research can be done more specific towards a target set of devices under common set of conditions such as networks, gas limits. **
+**GAP1 : This research can be done more specific towards a target set of devices under common set of conditions such as networks, gas limits.**
 
 ---
 
@@ -40,7 +40,7 @@ This study posits a different view on the decentralized architures for IoT. This
 
 The main aim of the study is to analyze the effects of Central Transactional Parties, such as Banks and Ledgers, on a network of IoT devices.
 
-The study tries to simulate the effects of two different consensus protocols (i.e. **Proof of Work** and **Proof of Authority**) on the Transaction counts. Considering the transaction count as valid metric, the system proposes comparison between both and subtly conveys the message that the **Proof of Authority** creates more transactions than that of **Proof of Work**.
+The study tries to simulate the effects of two different consensus protocols (i.e. **Proof of Work** and **Proof of Authority**) on the Transaction counts. Considering the transaction count as valid metric for network efficiency, the system proposes comparison between both and subtly conveys the message that the **Proof of Authority** creates more transactions than that of **Proof of Work**.
 
 ---
 
@@ -58,6 +58,6 @@ But one as a controlling body of the Institution, can assign the slow employee t
 
 When searched for the keywords 'Whisper Protocol and IoT', no major publication appears to be a good interpretation of the communication spectrum of the situation.
 
------> Talk about Whisper protocol here
+Ethereum uses Whisper as one of the communication protocols in the ethereum stack. It has a concept of **Darkness** (i.e. Keeping the other nodes in the Darkness about the message they are passing forward). Whisper is designed in such a way that it maximizes darkness while maximizing the **cost** (computational cost, inherently maximizing the latency).
 
-One possible gap to fill up as a researcher is to study about the communication protocols for decentralized applications and combining it with traditional IoT communication protocols. (From the perspective of creating a package of **Slow and Most Secure** protocol and **Fast and Less Secure** protocol)
+One possible gap to fill up as a researcher is to study about the communication protocols for decentralized applications and combining it with traditional IoT communication protocols. Solving the Institution Pradigm(From the perspective of creating a package of **Slow and Most Secure** protocol and **Fast and Less Secure** protocol). e.g. More dynamic and security insensitive data can be sent with MQTT or AMQP while the more security sensitive data with Whisper or any other decentralized communication protocol, such as Swarm.
